@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>black.webp</file>
+        <file>white.webp</file>
+        <file>bgm.mp3</file>
+        <file>bgm.wav</file>
+    </qresource>
+</RCC>
