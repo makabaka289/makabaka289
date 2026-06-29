@@ -13,6 +13,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makabaka289&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
 </a>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makabaka289&theme=transparent&hide_border=true&layout=compact" />
 </a>
