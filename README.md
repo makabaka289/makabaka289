@@ -10,11 +10,16 @@
 
 ## 📊 Stats
 
-[![makabaka289's GitHub stats](https://github-readme-stats.vercel.app/api?username=makabaka289&count_private=true&show_icons=true&title_color=00BFFF&icon_color=4FC3F7&text_color=4682B4&bg_color=F0F8FF&border_color=87CEEB&ring_color=00BFFF)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makabaka289&count_private=true&show_icons=true&title_color=00BFFF&icon_color=4FC3F7&text_color=4682B4&bg_color=F0F8FF&border_color=87CEEB&ring_color=00BFFF" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makabaka289&title_color=00BFFF&text_color=4682B4&bg_color=F0F8FF&border_color=87CEEB&layout=compact" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makabaka289&title_color=00BFFF&text_color=4682B4&bg_color=F0F8FF&border_color=87CEEB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=makabaka289&theme=transparent&border_radius=20&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=500)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=makabaka289&theme=transparent&border_radius=20&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=500" />
+</a>
 
 </div>
 
