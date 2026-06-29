@@ -14,9 +14,13 @@
   <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=makabaka289&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
 </a>
 <br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makabaka289&theme=transparent&hide_border=true&layout=compact" />
 </a>
+
+<br>
+
 
 <a href="https://git.io/streak-stats">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=makabaka289&theme=transparent&short_numbers=true&date_format=%5BY.%5Dn.j&border=00000000" />
